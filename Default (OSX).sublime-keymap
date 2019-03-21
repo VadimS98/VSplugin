@@ -1,0 +1,4 @@
+[
+	{ "keys": [ "cmd+m"], "command": "smile"},
+	{ "keys": [ "cmd+ь"], "command": "smile"}
+]
